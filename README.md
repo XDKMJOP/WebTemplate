@@ -23,6 +23,6 @@ Database
         POSTGRES_PASSWORD: admin123
 PGADMIN
     http://localhost:5050/
-    PGADMIN_DEFAULT_EMAIL: admin@example.com
+    PGADMIN_DEFAULT_EMAIL: admin123
     PGADMIN_DEFAULT_PASSWORD: admin123
 "# frontend-server-templateV1" 
